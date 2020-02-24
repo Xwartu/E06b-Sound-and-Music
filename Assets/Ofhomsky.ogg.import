@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Ofhomsky.ogg-acccab1f816d815f2acf65cd3ebf9e5e.oggstr"
+
+[deps]
+
+source_file="res://Assets/Ofhomsky.ogg"
+dest_files=[ "res://.import/Ofhomsky.ogg-acccab1f816d815f2acf65cd3ebf9e5e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -15,3 +15,6 @@ Import and open the project in Godot. You will see four AudioStreamPlayer nodes,
 As always, update the LICENSE and README.md.
 
 When you are done, commit and push your changes to GitHub. Then submit the URL of your repository on Canvas.
+
+New README:
+Sorry about my sound effects they are a little loud, and my music piece is shaky. Admittedly can't read music but these were fun. I have the flu from a friend so I did this one before class.
